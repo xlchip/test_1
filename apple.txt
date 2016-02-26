@@ -1,5 +1,2 @@
 <<<<<<< HEAD
 Hello
-=======
-Change made in cloned repository of test_1
->>>>>>> 05cc09a48ded1b7bb6919ada1279a7c93e226758
